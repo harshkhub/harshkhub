@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **hkhubcha@usc.edu**
 
+- 🤖 Exploring statistical modelling and machine learning using **sickit-learn**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
